@@ -4,9 +4,9 @@ O que são Bibliotecas?<br>
 
 Exemplos
 
-Moment.js - Biblioteca para converter, validar, manipular e exibir datas e horários
-Chart.js - Biblioteca para a criação de gráficos
-Voca - Biblioteca para trabalhar com Strings
-mo.js - Biblioteca para criar animações incríveis com SVG. Já fizemos um post sobre como começar com o mo.js
-React - Biblioteca para criar interfaces de usuário. Se quiser conhecer um pouquinho, temos um post aqui no blog para você conhecer o React
+Moment.js - Biblioteca para converter, validar, manipular e exibir datas e horários<br>
+Chart.js - Biblioteca para a criação de gráficos<br>
+Voca - Biblioteca para trabalhar com Strings<br>
+mo.js - Biblioteca para criar animações incríveis com SVG. Já fizemos um post sobre como começar com o mo.js<br>
+React - Biblioteca para criar interfaces de usuário. Se quiser conhecer um pouquinho, temos um post aqui no blog para você conhecer o React<br>
 
