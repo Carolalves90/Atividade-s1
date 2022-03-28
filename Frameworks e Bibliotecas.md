@@ -1,4 +1,4 @@
-O que são Bibliotecas?<br>
+<b>O que são Bibliotecas?</b><br>
 
 É uma coleção de códigos voltados para resolver um determinado problema.
 
