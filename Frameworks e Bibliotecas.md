@@ -29,9 +29,9 @@
   
 A biblioteca é o que usamos no nosso código e o Framework usa o nosso código. Alguns lugares chamam Angular de biblioteca e React de framework, mas na verdade é o contrário.
 
-No <i>React</i> nós temos basicamente funções para a criação de componentes e criação de estados. Estamos no controle o tempo todo, nós chamamos as funções do React, podemos decidir qual será a estrutura da nossa aplicação e o fluxo com o qual ela funciona. Se acaso a gente precisar de funcionalidades de roteamento, animações, internacionalização, etc, precisaremos buscar bibliotecas para isso.
+No <i>React</i> nós temos basicamente funções para a criação de componentes e criação de estados, estando no controle o tempo todo, podendo decidir qual será a estrutura da nossa aplicação e o fluxo com o qual ela funciona. Se acaso a gente precisar de funcionalidades de roteamento, animações, internacionalização, entre outras, precisaremos buscar bibliotecas para isso.
 
-Em contrapartida no <i>Angular</i> todas essas funcionalidades já vêm inclusas. Há uma estrutura que devemos seguir (componentes, serviços, pipes, rotas, módulos), e o Angular é quem vai chamar o nosso código seguindo seu próprio fluxo. Essa característica de já ter uma estrutura é o principal diferencial entre um framework e uma biblioteca. Você pode notar que em nenhum momento nós chamamos alguma função como Angular.nomeFuncao(). Eventualmente, caso queira fazer algo num fluxo ou estrutura diferente, o Angular não vai entender e você terá um erro.
+Em contrapartida no <i>Angular</i> todas essas funcionalidades já vêm inclusas. Há uma estrutura que devemos seguir (componentes, serviços, pipes, rotas, módulos), e o Angular é quem vai chamar o nosso código seguindo seu próprio fluxo. Essa característica de já ter uma estrutura é o principal diferencial entre um framework e uma biblioteca.
 
   ### Qual o melhor?
   
