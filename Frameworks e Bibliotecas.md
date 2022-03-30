@@ -6,11 +6,11 @@
 
 <i>Exemplos</i>
 
- * Moment.js - Biblioteca para converter, validar, manipular e exibir datas e horários
- * Chart.js - Biblioteca para a criação de gráficos
- * Voca - Biblioteca para trabalhar com Strings
- * mo.js - Biblioteca para criar animações incríveis com SVG. Já fizemos um post sobre como começar com o mo.js
- * React - Biblioteca para criar interfaces de usuário. Se quiser conhecer um pouquinho, temos um post aqui no blog para você conhecer o React
+ * `Moment.js` - Biblioteca para converter, validar, manipular e exibir datas e horários
+ * `Chart.js` - Biblioteca para a criação de gráficos
+ * `Voca` - Biblioteca para trabalhar com Strings
+ * `mo.js` - Biblioteca para criar animações incríveis com SVG. Já fizemos um post sobre como começar com o mo.js
+ * `React` - Biblioteca para criar interfaces de usuário. Se quiser conhecer um pouquinho, temos um post aqui no blog para você conhecer o React
 
   ### O que são Frameworks?
 
@@ -19,11 +19,11 @@
 
 <i>Exemplos</i>
 
- * Angular - Framework para criação de aplicações web
- * Vue.js - Framework também para criação de aplicações web
- * Ionic - Framework para criar aplicativos mobile com Angular, React ou Vue
- * Express - Framework para criar aplicações com Node.js
- * LoopBack - Framework para criar APIs e microserviços com Node.js
+ * `Angular` - Framework para criação de aplicações web
+ * `Vue.js` - Framework também para criação de aplicações web
+ * `Ionic` - Framework para criar aplicativos mobile com Angular, React ou Vue
+ * `Express` - Framework para criar aplicações com Node.js
+ * `LoopBack` - Framework para criar APIs e microserviços com Node.js
 
   ### Mas então, qual a diferença entre Framework e Biblioteca?
   
